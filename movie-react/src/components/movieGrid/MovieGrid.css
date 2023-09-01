@@ -1,0 +1,12 @@
+.movies_cards {
+    margin-bottom: 50px;
+}
+.image_poster {
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+
+.movie-card {
+    text-align: center;
+    border: 1px solid #ccc;
+}
